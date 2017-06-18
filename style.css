@@ -1,0 +1,28 @@
+body{
+	background-color: #000000;
+	
+	
+}
+button{
+	font-family: neou;
+	font-size: 110%;
+	color: #171b3e;
+	background-color: #000000;
+	border-color: #000000;
+
+
+}
+button a:hover{
+	background-color: #303d83;
+	color: #000000;
+	transition: 0.8s;
+	text-decoration-style: none; 
+}
+a{
+	color: #303d83;
+	text-decoration: none;
+
+}
+header{
+	margin-top: 0%;
+}

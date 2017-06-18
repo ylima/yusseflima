@@ -1,0 +1,104 @@
+body{
+	background-color: #000000
+}
+#menu ul{
+	padding: 0px;
+	margin: 0px;
+	list-style: none;
+	background-color: #303D83;
+
+}
+#menu ul li{
+	display: inline;
+
+
+}
+#menu{
+	text-align: center;
+	line-height: 200%;
+	background-color: #000000;
+
+	
+}
+#menu ul li a{
+	color: #A9A9A9;
+	font-family: neou;
+	text-decoration: none;
+	margin: 7%;
+
+}
+h1{
+	text-align:center;
+	background-color: #303D83;
+	font-family: neou;
+	margin-top: 0;
+	font-size: 160%;
+}
+div.gallery h1{
+	background-color: #303D83;
+	color: #000000;
+	font-family: neou;
+	text-align:center;
+	line-height: 150%;
+	font-weight: 150%;
+	margin-top: 0;
+}
+
+div.gallery h3{
+	background-color: #303D83;
+	color: #000000;
+	font-family: neou;
+	text-align:center;
+	line-height: 150%;
+}
+#menu ul li a:hover{
+	background-color: #303D83;
+	color: black;
+	transition: 0.8s;
+	/*border-radius: 5px;*/	
+}
+
+div.gallery {
+    margin: 5px;
+    border: 10px solid #ccc;
+    border-bottom: 60px solid #ccc;
+    float: left;
+    width: 170px;
+    margin-left: 10%;
+
+}
+
+div.gallery:hover {
+   
+    border-color:#303D83;
+    transition: 0.8s; 
+}
+
+div.gallery img {
+    width: 100%;
+    height: 100%;
+    margin-bottom: none;
+    
+}
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+    font-family: neou;
+    color: #303D83;
+    font-size:80%;
+}
+h3{
+	text-align: center;
+	font-family: neou;
+	color: #A9A9A9;
+	font-size: 100%;
+	margin-top: 36%;
+}
+footer{
+	color: #303D83;
+	font-family: neou;
+	text-align: center;
+	margin-top: 50px;
+	font-size: 100%;
+}
